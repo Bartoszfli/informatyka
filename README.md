@@ -1,2 +1,2 @@
 # informatyka
-Bartosz Flisak programowanie
+przedmiot = informatyka
