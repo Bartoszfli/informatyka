@@ -1,1 +1,2 @@
 # informatyka
+Bartosz Flisak programowanie
