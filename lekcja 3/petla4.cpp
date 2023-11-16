@@ -11,10 +11,20 @@ cin >> wysokosc;
 	//petla zagniezdzona
 	for(int i = 0; i < wysokosc; i++){
 		for(int j = 0; j < szerokosc; j++){
-			if(i == 0 || i == wysokosc - 1)cout << "*";
-			else if(j == 0 || j == szerokosc - 1)cout << "*";
+			if(int i = 0 - 1 i < wysokosc; i++)
+			
+			
+			
+			
+			
+			if(i == 0 || i == wysokosc - 1){
+			cout << "*",;}
+			else if(j == 0 || j == szerokosc + 1)
+			{
+			cout << "*", cout << endl;
+		}
 			else cout << " ";
-
+		}
 		}
 		cout << endl;
 	}
